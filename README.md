@@ -60,6 +60,13 @@ $ git clone https://github.com/boypt/simple-torrent.git
 $ cd simple-torrent
 $ ./scripts/make_release.sh
 ```
+## Cloudron
+
+Cloudron is a complete solution for running apps on your server and keeping them up-to-date and secure.
+
+[![Install](https://cloudron.io/img/button.svg)](https://cloudron.io/store/com.github.cloudtorrent.html)
+
+The source code for the package can be found [here](https://git.cloudron.io/cloudron/simple-torrent-app).
 
 # Usage
 
